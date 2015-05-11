@@ -108,6 +108,13 @@ var onlineClasses = {
 			"dates" : "June 2015",
 			"url" : "https://www.udacity.com/",
 			"url_class" : "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893"
+		},
+		{
+			"name" : "Web Development",
+			"school" : "Udacity",
+			"dates" : "May 2015 - July 2015",
+			"url" : "https://www.udacity.com/",
+			"url_class" : "https://www.udacity.com/course/web-development--cs253"
 		}
 	]
 };
